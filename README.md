@@ -25,7 +25,7 @@ A matte black theme with a green accent color
 
 <pre>
 frontend:
-  themes: !include_dir_merge_named ../themes
+  themes: !include_dir_merge_named themes
 </pre>
 
 2. Under the Home Assistant **Config** folder, create a new folder named **themes**
