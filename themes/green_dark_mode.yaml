@@ -1,5 +1,5 @@
 # A matte black theme with a green accent color
-# Creater: Juan - @juanmtech
+# Creator: Juan - @juanmtech
 # Website: https://www.juanmtech.com
 # YouTube Channel: https://youtube.com/juanmtech
 # My Home Assistant Config files: https://github.com/JuanMTech/Home_Assistant_files
@@ -13,7 +13,7 @@ Green Dark Mode:
   primary-color: "#45AA79"
   light-primary-color: var(--primary-color)
   primary-background-color: "#1C1D21"
-  secondary-background-color: var(--primary-background-color)
+  secondary-background-color: "#252629"
   divider-color: var(--primary-background-color)
   # Text
   primary-text-color: "#BDC1C6"
@@ -47,7 +47,7 @@ Green Dark Mode:
   label-badge-gray: "#5F6267"
 
   # Cards
-  ha-card-border-radius: "15px"
+  ha-card-border-radius: "10px"
   ha-card-box-shadow: 0px
   paper-card-background-color: "#252629"
   paper-listbox-background-color: "#1C1D21"
@@ -65,3 +65,6 @@ Green Dark Mode:
   table-row-background-color: var(--primary-background-color)
   table-row-alternative-background-color: var(--secondary-background-color)
   data-table-background-color: var(--primary-background-color)
+  # Dropdowns
+  material-background-color: var(--secondary-background-color)
+  material-secondary-background-color: var(--primary-background-color)
