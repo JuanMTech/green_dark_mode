@@ -46,6 +46,14 @@ Green Dark Mode:
   label-badge-yellow: "#DFC271"
   label-badge-gray: "#5F6267"
 
+  # Inputs
+  input-fill-color: var(--secondary-background-color)
+  input-dropdown-icon-color: var(--secondary-text-color)
+  input-ink-color: var(--primary-text-color)
+  input-label-ink-color: var(--secondary-text-color)
+  input-idle-line-color: var(--primary-text-color)
+  input-hover-line-color: var(--primary-text-color)
+
   # Cards
   card-background-color: "#252629"
   ha-card-border-radius: "10px"
@@ -71,6 +79,12 @@ Green Dark Mode:
   material-background-color: var(--secondary-background-color)
   material-secondary-background-color: var(--primary-background-color)
   mdc-theme-surface: var(--secondary-background-color)
+  mdc-select-fill-color: var(--secondary-background-color)
+  mdc-select-ink-color: var(--primary-text-color)
+  mdc-select-label-ink-color: var(--secondary-text-color)
+  mdc-select-idle-line-color: var(--primary-text-color)
+  mdc-select-dropdown-icon-color: var(--secondary-text-color)
+  mdc-select-hover-line-color: var(--primary-text-color)
   # HACS
   hacs-chip-background-color: var(--primary-color)
   # Pre/Code
