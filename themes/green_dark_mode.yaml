@@ -53,6 +53,8 @@ Green Dark Mode:
   input-label-ink-color: var(--secondary-text-color)
   input-idle-line-color: var(--primary-text-color)
   input-hover-line-color: var(--primary-text-color)
+  input-disabled-fill-color: var(--secondary-background-color)
+  input-disabled-ink-color: var(--secondary-text-color)
 
   # Cards
   card-background-color: "#252629"
